@@ -53,6 +53,9 @@ To learn more, visit [ohmyz.sh](https://ohmyz.sh), follow [@ohmyzsh](https://twi
 
 </details>
 
+> I will go over this one too
+>
+
 ## Getting Started
 
 ### Prerequisites
